@@ -1,5 +1,3 @@
-import { response } from "express";
-
 export async function GET() {
   const quotes = [
     "The only way to do great work is to love what you do.",
